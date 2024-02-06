@@ -1,3 +1,6 @@
+Dashboard Link : https://public.tableau.com/app/profile/aman.verma4949/viz/RoadAccidentdashboard_17052124117610/Dashboard1?publish=yes
+
+
 #Road Accident Analysis Dashboard
 #Introduction
 Welcome to the Road Accident Analysis Dashboard! This dashboard provides comprehensive insights into road accidents and various factors influencing them. Understanding the correlation between different parameters such as weather conditions, road types, road conditions, vehicle types, and the types of casualties caused by road accidents is crucial for effective accident prevention and management strategies.
